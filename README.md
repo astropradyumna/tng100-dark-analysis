@@ -1,2 +1,2 @@
 # tng100-dark-analysis
-This repository is to extract and analyze the data of TNG100-1-Dark simulation
+This repository is to extract and analyze the data of TNG100-1-Dark simulation. Please update path for TNG data in the file: 'paths_for_files.py'. Running the shell script check for files of tng100 particle data for requested FoFs (installs if it is not present) and then extracts all the required data for Type-1 and order 1 Type-2 subhalos for a given FoF. Before running the shell script, ensure it is changed appropriately.
